@@ -1,0 +1,16 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" rx="36" fill="#050816"/>
+  <rect x="56" y="56" width="1088" height="688" rx="28" fill="url(#bg)"/>
+  <rect x="140" y="150" width="920" height="120" rx="18" fill="rgba(255,255,255,0.12)"/>
+  <rect x="140" y="310" width="360" height="280" rx="22" fill="rgba(255,255,255,0.12)"/>
+  <rect x="540" y="310" width="520" height="280" rx="22" fill="rgba(255,255,255,0.12)"/>
+  <circle cx="320" cy="450" r="90" fill="rgba(255,255,255,0.16)"/>
+  <text x="140" y="118" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="700">Gym Management</text>
+  <text x="140" y="670" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="28">Smart fitness platform with membership workflows</text>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#22c55e"/>
+    </linearGradient>
+  </defs>
+</svg>
