@@ -214,6 +214,36 @@ export const projects = [
     github: "https://github.com/Mshanu-tech",
     image: "/images/projects/codostack.png",
   },
+    {
+    id: 8,
+    title: "restaurant",
+    category: "Frontend",
+    description: "A modern frontend project for a technology-focused company, crafted to highlight services and brand presence clearly.",
+    tech: ["React.js", "Tailwind CSS"],
+    demo: "https://restaurant-website-sooty-five.vercel.app/",
+    github: "https://github.com/Mshanu-tech",
+    image: "/images/projects/restaurant1.png",
+  },
+    {
+    id: 9,
+    title: "restaurant2",
+    category: "Frontend",
+    description: "A modern frontend project for a technology-focused company, crafted to highlight services and brand presence clearly.",
+    tech: ["React.js", "Tailwind CSS"],
+    demo: "https://domo-restaurant-website1.vercel.app/",
+    github: "https://github.com/Mshanu-tech",
+    image: "/images/projects/restaurant2.png",
+  },
+    {
+    id: 10,
+    title: "Clinic",
+    category: "Frontend",
+    description: "A modern frontend project for a technology-focused company, crafted to highlight services and brand presence clearly.",
+    tech: ["React.js", "Tailwind CSS"],
+    demo: "https://domo-clinic.vercel.app/",
+    github: "https://github.com/Mshanu-tech",
+    image: "/images/projects/clinic.png",
+  },
 ];
 
 export const projectCategories = ["All", "Full Stack", "Frontend"];
